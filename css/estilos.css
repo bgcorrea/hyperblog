@@ -1,24 +1,4 @@
 body{
-<<<<<<< HEAD
-    color: #333;
-    text-align: left;
-    font-family: "Courier";
-    font-size: 16px;
-    
-    }
-    #container{
-        width: 70%;
-        padding: 1em;
-        text-align: left;
-        border: 1px solid #ddd;
-        margin: 0 auto;
-    }
-    
-    #container h1{
-    
-        font-size: 20px;
-    }
-=======
 color: #333;
 text-align: left;
 font-family: "Arial";
@@ -61,4 +41,3 @@ font-size: 0.8em;
 
     font-size: 20px;
 }
->>>>>>> cabecera
